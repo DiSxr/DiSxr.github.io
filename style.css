@@ -1,14 +1,14 @@
 #Letay
 {
 	position: relative;
-	width: 1920px;
+	width: 1903px;
 	height: 1727px;
 	background: #FFFFFF;
 }
 #Header
 {
 	position: absolute;
-	width: 1920px;
+	width: 1903px;
 	height: 167px;
 	left: 0px;
 	top: 0px;
@@ -19,7 +19,7 @@
 	position: absolute;
 	width: 43px;
 	height: 43px;
-	left: 1636px;
+	left: 1588px;
 	top: 62px;
 	background: url(facebookb.png);
 }
@@ -28,7 +28,7 @@
 	position: absolute;
 	width: 40px;
 	height: 40px;
-	left: 1556px;
+	left: 1514px;
 	top: 63px;
 	background: url(vkb.png);
 }
@@ -37,7 +37,7 @@
 	position: absolute;
 	width: 40px;
 	height: 40px;
-	left: 1396px;
+	left: 1366px;
 	top: 65px;
 	background: url(twitterb.png);
 }
@@ -46,7 +46,7 @@
 	position: absolute;
 	width: 40px;
 	height: 40px;
-	left: 1476px;
+	left: 1440px;
 	top: 65px;
 	background: url(instb.png);
 }
@@ -55,18 +55,18 @@
 	position: absolute;
 	width: 36px;
 	height: 28px;
-	left: 1842px;
+	left: 1795px;
 	top: 70px;
 	background: url(singin.png);
 }
 #header6
 {
 	position: absolute;
-	width: 470px;
+	width: 550px;
 	height: 76px;
-	left: 843px;
+	left: 800px;
 	top: 86px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: italic;
 	font-weight: 500;
 	font-size: 64px;
@@ -76,11 +76,11 @@
 #header7
 {
 	position: absolute;
-	width: 550px;
+	width: 600px;
 	height: 76px;
-	left: 671px;
+	left: 620px;
 	top: 15px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: italic;
 	font-weight: 500;
 	font-size: 64px;
@@ -92,9 +92,9 @@
 	position: absolute;
 	width: 102px;
 	height: 42px;
-	left: 1727px;
+	left: 1680px;
 	top: 62px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 36px;
@@ -113,7 +113,7 @@
 #Menu
 {
 	position: absolute;
-	width: 1920px;
+	width: 1903px;
 	height: 84px;
 	left: 0px;
 	top: 167px;
@@ -126,7 +126,7 @@
 	height: 35px;
 	left: 507px;
 	top: 34px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 30px;
@@ -140,7 +140,7 @@
 	height: 35px;
 	left: 703px;
 	top: 34px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 30px;
@@ -152,9 +152,9 @@
 	position: absolute;
 	width: 211px;
 	height: 42px;
-	left: 847px;
+	left: 835px;
 	top: calc(50% - 42px/2 + 13px);
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 30px;
@@ -168,7 +168,7 @@
 	height: 35px;
 	left: 1118px;
 	top: 34px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 30px;
@@ -182,7 +182,7 @@
 	height: 35px;
 	left: 1307px;
 	top: 34px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: 900;
 	font-size: 30px;
@@ -192,7 +192,7 @@
 #submenu6
 {
 	position: absolute;
-	width: 1812px;
+	width: 1795px;
 	height: 0px;
 	left: 54px;
 	top: 16.83px;
@@ -201,7 +201,7 @@
 #Content
 {
 	position: absolute;
-	width: 1920px;
+	width: 1903px;
 	height: 1264px;
 	left: 0px;
 	top: 251px;
@@ -210,16 +210,213 @@
 #content1
 {
 	position: absolute;
-	width: 1920px;
+	width: 1903px;
 	height: 1264px;
 	left: 0px;
 	top: 251px;
 	background: url(123.jpg);
 }
+#content2
+{
+	position: absolute;
+	width: 630px;
+	height: 77px;
+	left: 645px;
+	top: 744px;
+	background: #FFFFFF;
+	border-radius: 189px;
+}
+#content3
+{
+	position: absolute;
+	width: 1719px;
+	height: 383px;
+	left: 101px;
+	top: 849px;
+	background: #FFFFFF;
+	border-radius: 191.5px;
+}
+#content4
+{
+	position: absolute;
+	width: 264px;
+	height: 32px;
+	left: 1427px;
+	top: 1149px;
+	font-family: helvetica;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 28px;
+	color: #000000;
+}
+#content5
+{
+	position: absolute;
+	width: 240px;
+	height: 32px;
+	left: 639px;
+	top: 1149px;
+	font-family: helvetica;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 28px;
+	color: #000000;
+}
+#content6
+{
+	position: absolute;
+	width: 289px;
+	height: 32px;
+	left: 215px;
+	top: 1149px;
+	font-family: helvetica;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 28px;
+	color: #000000;
+}
+#content7
+{
+	position: absolute;
+	width: 330px;
+	height: 221px;
+	left: 994px;
+	top: 915px;
+	background: url(savan.png);
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 37px;
+}
+#content8
+{
+	position: absolute;
+	width: 330px;
+	height: 221px;
+	left: 194px;
+	top: 915px;
+	background: url(desert.png);
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 37px;
+}
+#content9
+{
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 121px;
+	top: 1014px;
+	background: #5DA4F4;
+	border-radius: 191.5px;
+}
+#content10
+{
+	position: absolute;
+	width: 53px;
+	height: 53px;
+	left: 1744px;
+	top: 1014px;
+	background: #5DA4F4;
+	border-radius: 191.5px;
+}
+#content11
+{
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 123px;
+	top: 1017px;
+	background: url(arrows.png);
+}
+#content12
+{
+	position: absolute;
+	width: 48px;
+	height: 48px;
+	left: 1746px;
+	top: 1017px;
+	background: url(arrow.png);
+}
+#content13
+{
+	position: absolute;
+	width: 330px;
+	height: 221px;
+	left: 1394px;
+	top: 915px;
+	background: url(river.png);
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 37px;
+}
+#content14
+{
+	position: absolute;
+	width: 330px;
+	height: 221px;
+	left: 594px;
+	top: 915px;
+	background: url(mount.png);
+	box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 37px;
+}
+#content15
+{
+	position: absolute;
+	width: 330px;
+	height: 32px;
+	left: 994px;
+	top: 1149px;
+	font-family: helvetica;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 25px;
+	line-height: 28px;
+	color: #000000;
+}
+#content16
+{
+	position: absolute;
+	width: 1327px;
+	height: 180px;
+	left: 297px;
+	top: 487px;
+	background: #FFFFFF;
+	border-radius: 189px;
+}
+#content17
+{
+	position: absolute;
+	width: 1256px;
+	height: 190px;
+	left: 332px;
+	top: 508px;
+	font-family: helvetica;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 35px;
+	text-align: center;
+	color: #2267B5;
+}
+#content18
+{
+	position: absolute;
+	width: 600px;
+	height: 42px;
+	left: 670px;
+	top: 762px;
+	font-family: helvetica;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 42px;
+	color: #2267B5;
+}
 #Footer
 {
 	position: absolute;
-	width: 1920px;
+	width: 1903px;
 	height: 212px;
 	left: 0px;
 	top: 1515px;
@@ -273,11 +470,11 @@
 #footer6
 {
 	position: absolute;
-	width: 198px;
+	width: 250px;
 	height: 28px;
-	left: 1432px;
+	left: 1425px;
 	top: 144px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
@@ -309,7 +506,7 @@
 	height: 0px;
 	left: 62px;
 	top: 106px;
-	border: 3px solid #909598;
+	border: 2px solid #909598;
 	transform: rotate(0.18deg);
 }
 #footer10
@@ -317,9 +514,9 @@
 	position: absolute;
 	width: 282px;
 	height: 54px;
-	left: 827px;
+	left: 820px;
 	top: 27px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
@@ -333,7 +530,7 @@
 	height: 28px;
 	left: 196px;
 	top: 161px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
@@ -343,11 +540,11 @@
 #footer12
 {
 	position: absolute;
-	width: 222px;
+	width: 300px;
 	height: 33px;
-	left: 1569px;
+	left: 1560px;
 	top: 21px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 28px;
@@ -361,7 +558,7 @@
 	height: 23px;
 	left: 1546px;
 	top: 70px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 20px;
@@ -382,9 +579,9 @@
 	position: absolute;
 	width: 272px;
 	height: 28px;
-	left: 824px;
+	left: 820px;
 	top: 122px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
@@ -398,7 +595,7 @@
 	height: 61px;
 	left: 84px;
 	top: 128px;
-	font-family: Roboto;
+	font-family: helvetica;
 	font-style: normal;
 	font-weight: normal;
 	font-size: 24px;
